@@ -7,9 +7,9 @@ Once copied into your Koha system, feel free to modify these in any way you see 
 
 Here are examples for each one:
 
-<ins>Snowfall</ins><br />
+<ins>Snowfall</ins>
 https://codepen.io/mblenk/pen/rNKbVab
 
-<ins>Snowfall (responsive)</ins><br />
+<ins>Snowfall (responsive)</ins>
 Just like snowfall, except the snowflakes respond to your mouse movements or if you tilt your phone screen!
 https://codepen.io/mblenk/pen/YzvMPmW
