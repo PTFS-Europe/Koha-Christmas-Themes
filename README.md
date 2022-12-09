@@ -18,3 +18,6 @@ https://codepen.io/mblenk/pen/YzvMPmW
 This can be used for any event, not just Christmas - follow the instructions in the files to change/format how you wish the countdown to look.
 N.B. Do not copy the code from the link below, it is not configured to interface with Koha, please use the files in this repository instead. <br />
 https://codepen.io/mblenk/pen/vYrMOpJ
+
+<ins>Christmas Lights</ins><br />
+https://codepen.io/mblenk/pen/qBKwNmp
