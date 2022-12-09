@@ -6,3 +6,10 @@ All of these themes can be plugged directly into your OPAC by using the OPACUser
 Once copied into your Koha system, feel free to modify these in any way you see fit.
 
 Here are examples for each one:
+
+<ins>Snowfall</ins><br />
+https://codepen.io/mblenk/pen/rNKbVab
+
+<ins>Snowfall (responsive)</ins><br />
+Just like snowfall, except the snowflakes respond to your mouse movements or if you tilt your phone screen!
+https://codepen.io/mblenk/pen/YzvMPmW
