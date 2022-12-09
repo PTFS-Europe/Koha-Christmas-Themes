@@ -1,0 +1,16 @@
+.countdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    width: 100%;
+    /* background-color: #000; */ /* To change the background color, remove the comment notation from background-color and choose your colour */
+}
+
+#days {
+font-size: 20px; /* Change font size here */
+color: #000; /* Change font color here */
+text-align: center;
+letter-spacing: 3px;
+}
+  
