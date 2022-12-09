@@ -1,7 +1,7 @@
 var Snowflake = (function() {
 
 	var flakes;
-	var flakesTotal = 250;
+	var flakesTotal = 250; //Adjust this number to increase/decrease the number of snowflakes
 	var wind = 0;
 	var mouseX;
 	var mouseY;
