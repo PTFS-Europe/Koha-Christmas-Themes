@@ -13,3 +13,8 @@ https://codepen.io/mblenk/pen/rNKbVab
 <ins>Snowfall (responsive)</ins>
 Just like snowfall, except the snowflakes respond to your mouse movements or if you tilt your phone screen!<br />
 https://codepen.io/mblenk/pen/YzvMPmW
+
+<ins>Christmas Countdown</ins>
+This can be used for any event, not just Christmas - follow the instructions in the files to change/format how you wish the countdown to look.
+N.B. Do not copy the code from the link below, it is not configured to interface with Koha, please use the files in this repository instead. <br />
+https://codepen.io/mblenk/pen/vYrMOpJ
